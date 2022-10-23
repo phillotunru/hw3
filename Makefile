@@ -6,6 +6,8 @@ all: llrec-test
 
 #-----------------------------------------------------
 # ADD target(s) to build your llrec-test executable
+
+targets: llrec-test
 #-----------------------------------------------------
 
 
